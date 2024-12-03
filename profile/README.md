@@ -9,6 +9,8 @@
 <a href="https://1lesson.guru">CLICK TO PLAY</a>
 </h3>
 
+<a href="https://lesson-1.guru"><img src="https://clearcache.store/games.png"></a>
+
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
