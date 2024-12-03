@@ -5,6 +5,7 @@
 
 <h3>
 <a href="https://lesson-1.guru"> CLICK TO PLAY GAME</a> </br>
+   
 <a href="https://1lesson1.guru">CLICK TO PLAY</a>
 </h3>
 
