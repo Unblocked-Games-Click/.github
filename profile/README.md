@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there Unblocked Games 76 👋
 
 
 **Here are some ideas to get you started:**
@@ -17,7 +17,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-### Unblocked Games: The Ultimate Guide to Fun and Accessibility
+### Unblocked Games 76: The Ultimate Guide to Fun and Accessibility
 
 **What Are Unblocked Games?**
 
